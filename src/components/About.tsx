@@ -15,8 +15,7 @@ export const About = () => {
          Bachelor's degree in Computer Science from MNIT Jaipur, achieving a CGPA of 7.5.
           Proficient in web technologies, I'm eager to delve into new tech realms.
            Regularly tackling problems, my LeetCode rating stands at 1800+, showcasing a penchant for consistency.
-            While strength lies in maintaining consistency, I acknowledge 
-         occasional underestimation of my potential. Committed to continuous growth,
+            While strength lies in maintaining consistency. Committed to continuous growth,
           I seek to enrich my portfolio with diverse experiences and achievements.
         <br className="block" />
         <br className="block" />
