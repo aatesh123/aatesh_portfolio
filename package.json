@@ -2,6 +2,7 @@
   "name": "aatesh_portfolio",
   "private": true,
   "version": "0.0.4",
+  "homepage": "https://aatesh123.github.io/aatesh_portfolio",
   "type": "module",
   "scripts": {
     "predeploy": "npm run build",
